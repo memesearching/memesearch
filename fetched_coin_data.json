@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Bitcoin",
+        "price_usd": 92796
+    },
+    {
+        "name": "Ethereum",
+        "price_usd": 3181.35
+    },
+    {
+        "name": "Dogecoin (Meme)",
+        "price_usd": 0.149224
+    }
+]
